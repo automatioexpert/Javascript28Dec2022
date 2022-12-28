@@ -5,7 +5,7 @@ console.log(v1-v2)
 console.log(v1*v2)
 console.log(v1/v2)
 console.log(v1%v2)
-console.log(v1==v2) //true
+console.log(v1==v2) //truex 
 console.log(v1===v2)
 /*
 200
